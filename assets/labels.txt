@@ -1,0 +1,7 @@
+walking
+standing
+jogging
+sitting
+biking
+upstairs
+downstairs
